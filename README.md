@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @ChangfuXu, M.A.,Research Assistant, Email: changfu.xu@outlook.com Or cf.xu@siat.ac.cn; Phone: 18270855717
-- 👀 I’m interested in IoT, edge computing, and image-guided robot-assisted brachytherapy 
-- 🌱 I’m currently working in SIAT
+- 👋 Hi, I’m @ChangfuXu, Ph.D. student, Email: changfu.xu@uic.edu.cn
+- 👀 I’m interested in edge computing and robot-assisted brachytherapy 
 
 <!---
 ChangfuXu/ChangfuXu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
